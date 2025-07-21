@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Kaggle
+data/
+*.zip
+images/
+
 # C extensions
 *.so
 
